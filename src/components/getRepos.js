@@ -1,5 +1,5 @@
 const axios = require('axios');
-const baseUrl = 'https://bitbucket.corp.com/';
+const baseUrl = 'https://bitbucket.com/';
 
 const {prettyJson} = require('./utility');
 const credential =  require('./credential');

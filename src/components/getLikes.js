@@ -1,5 +1,5 @@
 const axios = require('axios');
-const baseUrl = 'https://bitbucket.corp.com/';
+const baseUrl = 'https://bitbucket.com/';
 const requestUrl = 'rest/comment-likes/latest/projects/AIR/repos/flight-details/pull-requests/37/comments/52544/likes';
 
 const credential =  require('./credential');

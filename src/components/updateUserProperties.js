@@ -49,6 +49,7 @@ function secondStep(repos) {
 }
 
 function firstStep() {
+  console.log('$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ FIRST STEP!');
   createReposCollection(secondStep);
 }
 
